@@ -1,0 +1,9 @@
+{
+  "name": "veterinaria-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "leer": "node index.js leer",
+    "registrar": "node index.js registrar"
+  }
+}
